@@ -24,6 +24,7 @@ Este projeto foi desenvolvido como parte de um exercício em sala de aula, onde 
 ![image](https://github.com/euaallee/projeto-conta/assets/99816871/6f48306b-8ae9-4296-a743-fcc994c5c790)
 ### 2. Primeira opção de abrir conta.
    - São pedidas informações de duas contas.
+     ###
 ![image](https://github.com/euaallee/projeto-conta/assets/99816871/be362efa-7407-4874-a55f-5112ccd8e2e6)
 ### 3. Extratos das duas contas.
   - Conta #10 Alexander.
